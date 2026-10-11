@@ -2,6 +2,69 @@ import { defineConfig } from 'vitepress'
 
 const base = process.env.GITHUB_ACTIONS ? '/dhatupatha/' : '/'
 
+function toAscii(str) {
+  if (!str) return ''
+  return str
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/ṃ/g, 'm')
+    .replace(/ḥ/g, 'h')
+    .replace(/ś/g, 's')
+    .replace(/ṣ/g, 's')
+    .replace(/ṛ/g, 'r')
+    .replace(/ṝ/g, 'r')
+    .replace(/ḷ/g, 'l')
+    .replace(/ñ/g, 'n')
+    .replace(/ṅ/g, 'n')
+    .replace(/ṇ/g, 'n')
+    .replace(/ṭ/g, 't')
+    .replace(/ḍ/g, 'd')
+}
+
+function clearHtml(str) {
+  return (str || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim()
+}
+
+function* splitGanaPage(html) {
+  const entryRegex = /<div class="skt-entry" id="entry-([^"]+)">([\s\S]*?)(?=<div class="skt-entry"|$)/g
+  const h1Match = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)
+  const ganaTitle = h1Match ? clearHtml(h1Match[1]).replace(/​/g, '').trim() : 'Dhātupāṭha'
+
+  const firstEntryIdx = html.indexOf('<div class="skt-entry"')
+  if (firstEntryIdx > 0) {
+    const introText = clearHtml(html.slice(0, firstEntryIdx)).replace(/​/g, '').trim()
+    if (introText) {
+      yield {
+        anchor: '',
+        titles: [ganaTitle, ganaTitle],
+        text: introText
+      }
+    }
+  }
+
+  let match
+  while ((match = entryRegex.exec(html)) !== null) {
+    const eid = match[1]
+    const block = match[2]
+
+    const devaMatch = block.match(/<span class="deva"[^>]*>([\s\S]*?)<\/span>/i)
+    const iastMatch = block.match(/<span class="iast"[^>]*>([\s\S]*?)<\/span>/i)
+    const dhatu = devaMatch ? clearHtml(devaMatch[1]) : ''
+    const iast = iastMatch ? clearHtml(iastMatch[1]) : ''
+
+    const entryTitle = (dhatu ? `${dhatu} (${iast})` : iast) + ` #${eid}`
+    const rawText = clearHtml(block).replace(/​/g, '').trim()
+    const asciiText = toAscii(rawText)
+    const text = `${rawText} ${asciiText} ${eid}`
+
+    yield {
+      anchor: `entry-${eid}`,
+      titles: [ganaTitle, entryTitle],
+      text
+    }
+  }
+}
+
 export default defineConfig({
   base,
   title: "Pāṇinīya-Dhātupāṭha",
@@ -214,12 +277,21 @@ export default defineConfig({
         detailedView: true,
         miniSearch: {
           searchOptions: {
-            fuzzy: 0.2,
+            fuzzy(term) {
+              return term.length > 4 ? 0.2 : false
+            },
             prefix: true,
             boost: {
               title: 4,
               text: 1
+            },
+            combineWith: 'AND'
+          },
+          _splitIntoSections(file, html) {
+            if (!file.includes('/gana/') && !file.includes('\\gana\\')) {
+              return null
             }
+            return splitGanaPage(html)
           }
         },
         locales: {

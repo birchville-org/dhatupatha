@@ -147,7 +147,7 @@ def generate_entry_html(entry: dict) -> str:
     
     lines = []
     lines.append(f'<div class="skt-entry" id="entry-{eid}">')
-    lines.append('  <div class="skt-header-line">')
+    lines.append(f'  <h3 class="skt-header-line" id="entry-{eid}-h">')
     lines.append(f'    <span class="deva" lang="sa">{dhatu}</span>')
     lines.append(f'    <span class="iast">{iast_dhatu}</span>')
     lines.append(f'    <span class="skt-id">#{eid}</span>')
@@ -161,7 +161,8 @@ def generate_entry_html(entry: dict) -> str:
     if orig_page:
         lines.append(f'      <span class="badge badge-page" title="Historischer Druck Seite {orig_page}">S. {orig_page}</span>')
     lines.append('    </div>')
-    lines.append('  </div>')
+    lines.append(f'    <a class="header-anchor" href="#entry-{eid}">&#x200b;</a>')
+    lines.append('  </h3>')
     
     lines.append('  <div class="skt-body">')
     lines.append('    <div class="skt-meaning">')
@@ -219,7 +220,7 @@ def generate_pages_for_lang(entries_by_gana: dict, output_dir: Path, is_en: bool
         content.append("---")
         content.append(f'title: "{title} — Dhātupāṭha"')
         content.append(f'description: "{desc} ({len(g_entries)} {roots_label})"')
-        content.append("outline: [2, 3]")
+        content.append("outline: false")
         content.append("---\n")
         
         content.append(f'# <span class="deva-large">{meta["deva"]}</span> <span class="iast-large">{meta["iast"]}</span>\n')

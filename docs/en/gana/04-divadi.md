@@ -1,7 +1,7 @@
 ---
 title: "4. Divādigaṇaḥ (दिवादिगणः) — Dhātupāṭha"
 description: "Thematic class with śyan infix (-ya-) without Guṇa strengthening. (163 roots)"
-outline: [2, 3]
+outline: false
 ---
 
 # <span class="deva-large">दिवादिगणः</span> <span class="iast-large">Divādigaṇaḥ</span>
@@ -20,7 +20,7 @@ outline: [2, 3]
 ---
 
 <div class="skt-entry" id="entry-04.0001">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0001-h">
     <span class="deva" lang="sa">दिव्</span>
     <span class="iast">div</span>
     <span class="skt-id">#04.0001</span>
@@ -30,7 +30,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0001">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">क्रीडाविजिगीषाव्यवहारद्युतिस्तुतिमोदमदस्वप्नकान्तिगतिषु</span>
@@ -43,7 +44,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0002">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0002-h">
     <span class="deva" lang="sa">सिव्</span>
     <span class="iast">siv</span>
     <span class="skt-id">#04.0002</span>
@@ -53,7 +54,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0002">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">तन्तुसन्ताने</span>
@@ -65,7 +67,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0003">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0003-h">
     <span class="deva" lang="sa">स्रिव्</span>
     <span class="iast">sriv</span>
     <span class="skt-id">#04.0003</span>
@@ -75,7 +77,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0003">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">गतिशोषणयोः</span>
@@ -87,7 +90,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0004">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0004-h">
     <span class="deva" lang="sa">ष्ठिव्</span>
     <span class="iast">ṣṭhiv</span>
     <span class="skt-id">#04.0004</span>
@@ -97,7 +100,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0004">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">निरसने</span>
@@ -110,7 +114,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0005">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0005-h">
     <span class="deva" lang="sa">स्नुस्</span>
     <span class="iast">snus</span>
     <span class="skt-id">#04.0005</span>
@@ -120,7 +124,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0005">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अदने आदाने अदर्शने च</span>
@@ -133,7 +138,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0006">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0006-h">
     <span class="deva" lang="sa">स्नस्</span>
     <span class="iast">snas</span>
     <span class="skt-id">#04.0006</span>
@@ -143,7 +148,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0006">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अदने निरसने च</span>
@@ -156,7 +162,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0007">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0007-h">
     <span class="deva" lang="sa">क्नस्</span>
     <span class="iast">knas</span>
     <span class="skt-id">#04.0007</span>
@@ -166,7 +172,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0007">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">ह्वरणदीप्त्योः</span>
@@ -179,7 +186,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0008">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0008-h">
     <span class="deva" lang="sa">व्युष्</span>
     <span class="iast">vyuṣ</span>
     <span class="skt-id">#04.0008</span>
@@ -189,7 +196,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0008">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">दाहे</span>
@@ -201,7 +209,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0009">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0009-h">
     <span class="deva" lang="sa">प्लुष्</span>
     <span class="iast">pluṣ</span>
     <span class="skt-id">#04.0009</span>
@@ -211,7 +219,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0009">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">दाहे</span>
@@ -223,7 +232,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0010">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0010-h">
     <span class="deva" lang="sa">नृत्</span>
     <span class="iast">nṛt</span>
     <span class="skt-id">#04.0010</span>
@@ -233,7 +242,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0010">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">गात्रविक्षेपे</span>
@@ -245,7 +255,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0011">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0011-h">
     <span class="deva" lang="sa">त्रस्</span>
     <span class="iast">tras</span>
     <span class="skt-id">#04.0011</span>
@@ -255,7 +265,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0011">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">उद्वेगे</span>
@@ -268,7 +279,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0012">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0012-h">
     <span class="deva" lang="sa">कुथ्</span>
     <span class="iast">kuth</span>
     <span class="skt-id">#04.0012</span>
@@ -278,7 +289,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0012">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">पूतीभावे</span>
@@ -291,7 +303,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0013">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0013-h">
     <span class="deva" lang="sa">पुथ्</span>
     <span class="iast">puth</span>
     <span class="skt-id">#04.0013</span>
@@ -301,7 +313,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0013">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसायाम्</span>
@@ -314,7 +327,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0014">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0014-h">
     <span class="deva" lang="sa">गुध्</span>
     <span class="iast">gudh</span>
     <span class="skt-id">#04.0014</span>
@@ -324,7 +337,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0014">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">परिवेष्टने</span>
@@ -337,7 +351,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0015">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0015-h">
     <span class="deva" lang="sa">क्षिप्</span>
     <span class="iast">kṣip</span>
     <span class="skt-id">#04.0015</span>
@@ -347,7 +361,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 76">S. 76</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0015">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्रेरणे</span>
@@ -360,7 +375,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0016">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0016-h">
     <span class="deva" lang="sa">पुष्प्</span>
     <span class="iast">puṣp</span>
     <span class="skt-id">#04.0016</span>
@@ -370,7 +385,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0016">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विकसने</span>
@@ -382,7 +398,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0017">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0017-h">
     <span class="deva" lang="sa">तिम्</span>
     <span class="iast">tim</span>
     <span class="skt-id">#04.0017</span>
@@ -392,7 +408,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0017">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आर्द्रीभावे</span>
@@ -404,7 +421,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0018">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0018-h">
     <span class="deva" lang="sa">तीम्</span>
     <span class="iast">tīm</span>
     <span class="skt-id">#04.0018</span>
@@ -414,7 +431,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0018">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आर्द्रीभावे</span>
@@ -426,7 +444,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0019">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0019-h">
     <span class="deva" lang="sa">स्तिम्</span>
     <span class="iast">stim</span>
     <span class="skt-id">#04.0019</span>
@@ -436,7 +454,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0019">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आर्द्रीभावे</span>
@@ -449,7 +468,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0020">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0020-h">
     <span class="deva" lang="sa">स्तीम्</span>
     <span class="iast">stīm</span>
     <span class="skt-id">#04.0020</span>
@@ -459,7 +478,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0020">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आर्द्रीभावे</span>
@@ -472,7 +492,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0021">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0021-h">
     <span class="deva" lang="sa">व्रीड्</span>
     <span class="iast">vrīḍ</span>
     <span class="skt-id">#04.0021</span>
@@ -482,7 +502,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0021">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">चोदने लज्जायां च</span>
@@ -495,7 +516,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0022">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0022-h">
     <span class="deva" lang="sa">इष्</span>
     <span class="iast">iṣ</span>
     <span class="skt-id">#04.0022</span>
@@ -505,7 +526,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0022">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">गतौ</span>
@@ -518,7 +540,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0023">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0023-h">
     <span class="deva" lang="sa">सह्</span>
     <span class="iast">sah</span>
     <span class="skt-id">#04.0023</span>
@@ -528,7 +550,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0023">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">चक्यर्थे</span>
@@ -541,7 +564,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0024">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0024-h">
     <span class="deva" lang="sa">सुह्</span>
     <span class="iast">suh</span>
     <span class="skt-id">#04.0024</span>
@@ -551,7 +574,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0024">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">चक्यर्थे</span>
@@ -564,7 +588,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0025">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0025-h">
     <span class="deva" lang="sa">जॄ</span>
     <span class="iast">jṝ</span>
     <span class="skt-id">#04.0025</span>
@@ -574,7 +598,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0025">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">वयोहानौ</span>
@@ -587,7 +612,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0026">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0026-h">
     <span class="deva" lang="sa">झॄ</span>
     <span class="iast">jhṝ</span>
     <span class="skt-id">#04.0026</span>
@@ -597,7 +622,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0026">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">वयोहानौ</span>
@@ -610,7 +636,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0027">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0027-h">
     <span class="deva" lang="sa">सू</span>
     <span class="iast">sū</span>
     <span class="skt-id">#04.0027</span>
@@ -620,7 +646,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0027">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्राणिप्रसवे</span>
@@ -633,7 +660,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0028">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0028-h">
     <span class="deva" lang="sa">दू</span>
     <span class="iast">dū</span>
     <span class="skt-id">#04.0028</span>
@@ -643,7 +670,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0028">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">परितापे</span>
@@ -656,7 +684,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0029">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0029-h">
     <span class="deva" lang="sa">दी</span>
     <span class="iast">dī</span>
     <span class="skt-id">#04.0029</span>
@@ -666,7 +694,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0029">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">क्षये</span>
@@ -678,7 +707,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0030">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0030-h">
     <span class="deva" lang="sa">डी</span>
     <span class="iast">ḍī</span>
     <span class="skt-id">#04.0030</span>
@@ -688,7 +717,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0030">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विहायसा गतौ</span>
@@ -701,7 +731,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0031">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0031-h">
     <span class="deva" lang="sa">धी</span>
     <span class="iast">dhī</span>
     <span class="skt-id">#04.0031</span>
@@ -711,7 +741,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0031">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आधारे आदाने अनादरे च</span>
@@ -724,7 +755,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0032">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0032-h">
     <span class="deva" lang="sa">मी</span>
     <span class="iast">mī</span>
     <span class="skt-id">#04.0032</span>
@@ -734,7 +765,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0032">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसायाम्</span>
@@ -747,7 +779,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0033">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0033-h">
     <span class="deva" lang="sa">री</span>
     <span class="iast">rī</span>
     <span class="skt-id">#04.0033</span>
@@ -757,7 +789,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0033">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">स्रवणे</span>
@@ -770,7 +803,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0034">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0034-h">
     <span class="deva" lang="sa">ली</span>
     <span class="iast">lī</span>
     <span class="skt-id">#04.0034</span>
@@ -780,7 +813,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0034">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">श्लेषणे</span>
@@ -793,7 +827,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0035">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0035-h">
     <span class="deva" lang="sa">व्री</span>
     <span class="iast">vrī</span>
     <span class="skt-id">#04.0035</span>
@@ -803,7 +837,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0035">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">वृणोत्यर्थे</span>
@@ -816,7 +851,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0036">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0036-h">
     <span class="deva" lang="sa">पी</span>
     <span class="iast">pī</span>
     <span class="skt-id">#04.0036</span>
@@ -826,7 +861,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0036">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">पाने</span>
@@ -838,7 +874,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0037">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0037-h">
     <span class="deva" lang="sa">मा</span>
     <span class="iast">mā</span>
     <span class="skt-id">#04.0037</span>
@@ -848,7 +884,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0037">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">माने</span>
@@ -861,7 +898,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0038">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0038-h">
     <span class="deva" lang="sa">ई</span>
     <span class="iast">ī</span>
     <span class="skt-id">#04.0038</span>
@@ -871,7 +908,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0038">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">गतौ</span>
@@ -884,7 +922,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0039">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0039-h">
     <span class="deva" lang="sa">प्री</span>
     <span class="iast">prī</span>
     <span class="skt-id">#04.0039</span>
@@ -894,7 +932,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0039">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्रीतौ</span>
@@ -907,7 +946,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0040">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0040-h">
     <span class="deva" lang="sa">शो</span>
     <span class="iast">śo</span>
     <span class="skt-id">#04.0040</span>
@@ -917,7 +956,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0040">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">तनूकरणे</span>
@@ -930,7 +970,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0041">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0041-h">
     <span class="deva" lang="sa">छो</span>
     <span class="iast">cho</span>
     <span class="skt-id">#04.0041</span>
@@ -940,7 +980,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0041">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">छेदने</span>
@@ -952,7 +993,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0042">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0042-h">
     <span class="deva" lang="sa">सो</span>
     <span class="iast">so</span>
     <span class="skt-id">#04.0042</span>
@@ -962,7 +1003,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0042">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अन्तकर्मणि</span>
@@ -975,7 +1017,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0043">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0043-h">
     <span class="deva" lang="sa">दो</span>
     <span class="iast">do</span>
     <span class="skt-id">#04.0043</span>
@@ -985,7 +1027,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0043">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अवखण्डने</span>
@@ -997,7 +1040,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0044">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0044-h">
     <span class="deva" lang="sa">जन्</span>
     <span class="iast">jan</span>
     <span class="skt-id">#04.0044</span>
@@ -1007,7 +1050,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0044">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्रादुर्भावे</span>
@@ -1020,7 +1064,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0045">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0045-h">
     <span class="deva" lang="sa">दीप्</span>
     <span class="iast">dīp</span>
     <span class="skt-id">#04.0045</span>
@@ -1030,7 +1074,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0045">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">दीप्तौ</span>
@@ -1043,7 +1088,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0046">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0046-h">
     <span class="deva" lang="sa">पूर्</span>
     <span class="iast">pūr</span>
     <span class="skt-id">#04.0046</span>
@@ -1053,7 +1098,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0046">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आप्यायने</span>
@@ -1066,7 +1112,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0047">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0047-h">
     <span class="deva" lang="sa">तूर्</span>
     <span class="iast">tūr</span>
     <span class="skt-id">#04.0047</span>
@@ -1076,7 +1122,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0047">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">गतित्वरणहिंसनयोः</span>
@@ -1089,7 +1136,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0048">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0048-h">
     <span class="deva" lang="sa">धूर्</span>
     <span class="iast">dhūr</span>
     <span class="skt-id">#04.0048</span>
@@ -1099,7 +1146,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0048">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसागत्योः</span>
@@ -1111,7 +1159,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0049">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0049-h">
     <span class="deva" lang="sa">गूर्</span>
     <span class="iast">gūr</span>
     <span class="skt-id">#04.0049</span>
@@ -1121,7 +1169,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0049">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसागत्योः</span>
@@ -1134,7 +1183,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0050">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0050-h">
     <span class="deva" lang="sa">घूर्</span>
     <span class="iast">ghūr</span>
     <span class="skt-id">#04.0050</span>
@@ -1144,7 +1193,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0050">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसावयोहान्योः</span>
@@ -1156,7 +1206,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0051">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0051-h">
     <span class="deva" lang="sa">जूर्</span>
     <span class="iast">jūr</span>
     <span class="skt-id">#04.0051</span>
@@ -1166,7 +1216,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0051">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसावयोहान्योः</span>
@@ -1178,7 +1229,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0052">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0052-h">
     <span class="deva" lang="sa">शूर्</span>
     <span class="iast">śūr</span>
     <span class="skt-id">#04.0052</span>
@@ -1188,7 +1239,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0052">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसास्तम्भनयोः</span>
@@ -1201,7 +1253,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0053">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0053-h">
     <span class="deva" lang="sa">चूर्</span>
     <span class="iast">cūr</span>
     <span class="skt-id">#04.0053</span>
@@ -1211,7 +1263,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0053">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">दाहे</span>
@@ -1223,7 +1276,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0054">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0054-h">
     <span class="deva" lang="sa">तप्</span>
     <span class="iast">tap</span>
     <span class="skt-id">#04.0054</span>
@@ -1233,7 +1286,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0054">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">ऐश्वर्ये</span>
@@ -1246,7 +1300,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0055">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0055-h">
     <span class="deva" lang="sa">वृत्</span>
     <span class="iast">vṛt</span>
     <span class="skt-id">#04.0055</span>
@@ -1256,7 +1310,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0055">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">वरणे</span>
@@ -1269,7 +1324,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0056">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0056-h">
     <span class="deva" lang="sa">वावृत्</span>
     <span class="iast">vāvṛt</span>
     <span class="skt-id">#04.0056</span>
@@ -1279,7 +1334,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0056">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">वरणे</span>
@@ -1291,7 +1347,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0057">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0057-h">
     <span class="deva" lang="sa">क्लिश्</span>
     <span class="iast">kliś</span>
     <span class="skt-id">#04.0057</span>
@@ -1301,7 +1357,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0057">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">उपतापे</span>
@@ -1314,7 +1371,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0058">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0058-h">
     <span class="deva" lang="sa">काश्</span>
     <span class="iast">kāś</span>
     <span class="skt-id">#04.0058</span>
@@ -1324,7 +1381,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0058">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">दीप्तौ</span>
@@ -1337,7 +1395,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0059">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0059-h">
     <span class="deva" lang="sa">वाश्</span>
     <span class="iast">vāś</span>
     <span class="skt-id">#04.0059</span>
@@ -1347,7 +1405,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0059">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">शब्दे</span>
@@ -1360,7 +1419,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0060">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0060-h">
     <span class="deva" lang="sa">मृष्</span>
     <span class="iast">mṛṣ</span>
     <span class="skt-id">#04.0060</span>
@@ -1370,7 +1429,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0060">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">तितिक्षायाम्</span>
@@ -1383,7 +1443,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0061">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0061-h">
     <span class="deva" lang="sa">शुच्</span>
     <span class="iast">śuc</span>
     <span class="skt-id">#04.0061</span>
@@ -1393,7 +1453,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0061">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">पूतीभावे</span>
@@ -1406,7 +1467,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0062">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0062-h">
     <span class="deva" lang="sa">नह्</span>
     <span class="iast">nah</span>
     <span class="skt-id">#04.0062</span>
@@ -1416,7 +1477,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0062">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">बन्धने</span>
@@ -1428,7 +1490,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0063">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0063-h">
     <span class="deva" lang="sa">रञ्ज्</span>
     <span class="iast">rañj</span>
     <span class="skt-id">#04.0063</span>
@@ -1438,7 +1500,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0063">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">रागे</span>
@@ -1451,7 +1514,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0064">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0064-h">
     <span class="deva" lang="sa">शप्</span>
     <span class="iast">śap</span>
     <span class="skt-id">#04.0064</span>
@@ -1461,7 +1524,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0064">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आक्रोशे</span>
@@ -1474,7 +1538,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0065">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0065-h">
     <span class="deva" lang="sa">पद्</span>
     <span class="iast">pad</span>
     <span class="skt-id">#04.0065</span>
@@ -1484,7 +1548,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0065">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">गतौ</span>
@@ -1497,7 +1562,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0066">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0066-h">
     <span class="deva" lang="sa">खिद्</span>
     <span class="iast">khid</span>
     <span class="skt-id">#04.0066</span>
@@ -1507,7 +1572,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0066">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">दैन्ये</span>
@@ -1520,7 +1586,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0067">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0067-h">
     <span class="deva" lang="sa">विद्</span>
     <span class="iast">vid</span>
     <span class="skt-id">#04.0067</span>
@@ -1530,7 +1596,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0067">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">सत्तायाम्</span>
@@ -1543,7 +1610,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0068">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0068-h">
     <span class="deva" lang="sa">बुध्</span>
     <span class="iast">budh</span>
     <span class="skt-id">#04.0068</span>
@@ -1553,7 +1620,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0068">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अवगमने</span>
@@ -1566,7 +1634,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0069">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0069-h">
     <span class="deva" lang="sa">युध्</span>
     <span class="iast">yudh</span>
     <span class="skt-id">#04.0069</span>
@@ -1576,7 +1644,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0069">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">सम्प्रहारे</span>
@@ -1589,7 +1658,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0070">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0070-h">
     <span class="deva" lang="sa">रुध्</span>
     <span class="iast">rudh</span>
     <span class="skt-id">#04.0070</span>
@@ -1599,7 +1668,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0070">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">कामे</span>
@@ -1612,7 +1682,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0071">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0071-h">
     <span class="deva" lang="sa">अण्</span>
     <span class="iast">aṇ</span>
     <span class="skt-id">#04.0071</span>
@@ -1622,7 +1692,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0071">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्राणने</span>
@@ -1635,7 +1706,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0072">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0072-h">
     <span class="deva" lang="sa">अन्</span>
     <span class="iast">an</span>
     <span class="skt-id">#04.0072</span>
@@ -1645,7 +1716,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0072">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्राणने</span>
@@ -1657,7 +1729,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0073">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0073-h">
     <span class="deva" lang="sa">मन्</span>
     <span class="iast">man</span>
     <span class="skt-id">#04.0073</span>
@@ -1667,7 +1739,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0073">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">ज्ञाने</span>
@@ -1680,7 +1753,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0074">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0074-h">
     <span class="deva" lang="sa">युज्</span>
     <span class="iast">yuj</span>
     <span class="skt-id">#04.0074</span>
@@ -1690,7 +1763,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0074">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">समाधौ</span>
@@ -1703,7 +1777,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0075">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0075-h">
     <span class="deva" lang="sa">सृज्</span>
     <span class="iast">sṛj</span>
     <span class="skt-id">#04.0075</span>
@@ -1713,7 +1787,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0075">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विसर्गे</span>
@@ -1726,7 +1801,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0076">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0076-h">
     <span class="deva" lang="sa">लिश्</span>
     <span class="iast">liś</span>
     <span class="skt-id">#04.0076</span>
@@ -1736,7 +1811,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0076">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अल्पीभावे</span>
@@ -1749,7 +1825,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0077">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0077-h">
     <span class="deva" lang="sa">राध्</span>
     <span class="iast">rādh</span>
     <span class="skt-id">#04.0077</span>
@@ -1759,7 +1835,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0077">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">वृद्धिसिद्धिद्रोहदैवपर्यालोचनादिषु च</span>
@@ -1772,7 +1849,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0078">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0078-h">
     <span class="deva" lang="sa">व्यध्</span>
     <span class="iast">vyadh</span>
     <span class="skt-id">#04.0078</span>
@@ -1782,7 +1859,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0078">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">ताडने</span>
@@ -1795,7 +1873,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0079">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0079-h">
     <span class="deva" lang="sa">पुष्</span>
     <span class="iast">puṣ</span>
     <span class="skt-id">#04.0079</span>
@@ -1805,7 +1883,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0079">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">पुष्टौ</span>
@@ -1818,7 +1897,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0080">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0080-h">
     <span class="deva" lang="sa">शुष्</span>
     <span class="iast">śuṣ</span>
     <span class="skt-id">#04.0080</span>
@@ -1828,7 +1907,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0080">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">शोषणे</span>
@@ -1840,7 +1920,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0081">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0081-h">
     <span class="deva" lang="sa">तुष्</span>
     <span class="iast">tuṣ</span>
     <span class="skt-id">#04.0081</span>
@@ -1850,7 +1930,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0081">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्रीतौ</span>
@@ -1863,7 +1944,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0082">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0082-h">
     <span class="deva" lang="sa">दुष्</span>
     <span class="iast">duṣ</span>
     <span class="skt-id">#04.0082</span>
@@ -1873,7 +1954,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0082">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">वैकृत्ये</span>
@@ -1886,7 +1968,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0083">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0083-h">
     <span class="deva" lang="sa">श्लिष्</span>
     <span class="iast">śliṣ</span>
     <span class="skt-id">#04.0083</span>
@@ -1896,7 +1978,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0083">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आलिङ्गने</span>
@@ -1909,7 +1992,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0084">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0084-h">
     <span class="deva" lang="sa">शक्</span>
     <span class="iast">śak</span>
     <span class="skt-id">#04.0084</span>
@@ -1919,7 +2002,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0084">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">मर्षणे</span>
@@ -1932,7 +2016,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0085">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0085-h">
     <span class="deva" lang="sa">स्विद्</span>
     <span class="iast">svid</span>
     <span class="skt-id">#04.0085</span>
@@ -1942,7 +2026,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0085">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">गात्रप्रक्षरणे</span>
@@ -1955,7 +2040,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0086">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0086-h">
     <span class="deva" lang="sa">क्रुध्</span>
     <span class="iast">krudh</span>
     <span class="skt-id">#04.0086</span>
@@ -1965,7 +2050,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0086">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">क्रोधे</span>
@@ -1977,7 +2063,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0087">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0087-h">
     <span class="deva" lang="sa">क्षुध्</span>
     <span class="iast">kṣudh</span>
     <span class="skt-id">#04.0087</span>
@@ -1987,7 +2073,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0087">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">बुभुक्षायाम्</span>
@@ -1999,7 +2086,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0088">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0088-h">
     <span class="deva" lang="sa">शुध्</span>
     <span class="iast">śudh</span>
     <span class="skt-id">#04.0088</span>
@@ -2009,7 +2096,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0088">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">शौचे</span>
@@ -2022,7 +2110,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0089">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0089-h">
     <span class="deva" lang="sa">सिध्</span>
     <span class="iast">sidh</span>
     <span class="skt-id">#04.0089</span>
@@ -2032,7 +2120,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0089">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">संराद्धौ</span>
@@ -2045,7 +2134,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0090">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0090-h">
     <span class="deva" lang="sa">रध्</span>
     <span class="iast">radh</span>
     <span class="skt-id">#04.0090</span>
@@ -2055,7 +2144,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0090">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसासंराद्ध्योः</span>
@@ -2068,7 +2158,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0091">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0091-h">
     <span class="deva" lang="sa">नश्</span>
     <span class="iast">naś</span>
     <span class="skt-id">#04.0091</span>
@@ -2078,7 +2168,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0091">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अदर्शने</span>
@@ -2090,7 +2181,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0092">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0092-h">
     <span class="deva" lang="sa">तृप्</span>
     <span class="iast">tṛp</span>
     <span class="skt-id">#04.0092</span>
@@ -2100,7 +2191,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0092">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्रीणने</span>
@@ -2113,7 +2205,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0093">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0093-h">
     <span class="deva" lang="sa">दृप्</span>
     <span class="iast">dṛp</span>
     <span class="skt-id">#04.0093</span>
@@ -2123,7 +2215,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0093">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हर्षमोहनयोः</span>
@@ -2136,7 +2229,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0094">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0094-h">
     <span class="deva" lang="sa">द्रुह्</span>
     <span class="iast">druh</span>
     <span class="skt-id">#04.0094</span>
@@ -2146,7 +2239,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0094">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">जिघांसायाम्</span>
@@ -2158,7 +2252,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0095">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0095-h">
     <span class="deva" lang="sa">मुह्</span>
     <span class="iast">muh</span>
     <span class="skt-id">#04.0095</span>
@@ -2168,7 +2262,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0095">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">वैचित्त्ये</span>
@@ -2181,7 +2276,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0096">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0096-h">
     <span class="deva" lang="sa">स्नुह्</span>
     <span class="iast">snuh</span>
     <span class="skt-id">#04.0096</span>
@@ -2191,7 +2286,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0096">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">उद्गिरणे</span>
@@ -2203,7 +2299,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0097">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0097-h">
     <span class="deva" lang="sa">स्निह्</span>
     <span class="iast">snih</span>
     <span class="skt-id">#04.0097</span>
@@ -2213,7 +2309,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0097">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्रीतौ</span>
@@ -2226,7 +2323,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0098">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0098-h">
     <span class="deva" lang="sa">शम्</span>
     <span class="iast">śam</span>
     <span class="skt-id">#04.0098</span>
@@ -2236,7 +2333,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0098">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">उपशमे</span>
@@ -2249,7 +2347,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0099">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0099-h">
     <span class="deva" lang="sa">तम्</span>
     <span class="iast">tam</span>
     <span class="skt-id">#04.0099</span>
@@ -2259,7 +2357,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0099">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">काङ्क्षायाम्</span>
@@ -2271,7 +2370,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0100">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0100-h">
     <span class="deva" lang="sa">दम्</span>
     <span class="iast">dam</span>
     <span class="skt-id">#04.0100</span>
@@ -2281,7 +2380,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0100">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">उपशमे</span>
@@ -2293,7 +2393,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0101">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0101-h">
     <span class="deva" lang="sa">श्रम्</span>
     <span class="iast">śram</span>
     <span class="skt-id">#04.0101</span>
@@ -2303,7 +2403,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0101">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">तपसि खेदे च</span>
@@ -2315,7 +2416,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0102">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0102-h">
     <span class="deva" lang="sa">भ्रम्</span>
     <span class="iast">bhram</span>
     <span class="skt-id">#04.0102</span>
@@ -2325,7 +2426,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0102">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अनवस्थाने</span>
@@ -2338,7 +2440,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0103">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0103-h">
     <span class="deva" lang="sa">क्षम्</span>
     <span class="iast">kṣam</span>
     <span class="skt-id">#04.0103</span>
@@ -2348,7 +2450,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0103">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">सहने</span>
@@ -2361,7 +2464,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0104">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0104-h">
     <span class="deva" lang="sa">क्लम्</span>
     <span class="iast">klam</span>
     <span class="skt-id">#04.0104</span>
@@ -2371,7 +2474,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0104">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">ग्लानौ</span>
@@ -2383,7 +2487,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0105">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0105-h">
     <span class="deva" lang="sa">मद्</span>
     <span class="iast">mad</span>
     <span class="skt-id">#04.0105</span>
@@ -2393,7 +2497,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0105">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हर्षे ग्लेपने च</span>
@@ -2406,7 +2511,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0106">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0106-h">
     <span class="deva" lang="sa">अस्</span>
     <span class="iast">as</span>
     <span class="skt-id">#04.0106</span>
@@ -2416,7 +2521,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0106">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">क्षेपणे</span>
@@ -2429,7 +2535,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0107">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0107-h">
     <span class="deva" lang="sa">यस्</span>
     <span class="iast">yas</span>
     <span class="skt-id">#04.0107</span>
@@ -2439,7 +2545,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0107">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्रयत्ने</span>
@@ -2451,7 +2558,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0108">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0108-h">
     <span class="deva" lang="sa">जस्</span>
     <span class="iast">jas</span>
     <span class="skt-id">#04.0108</span>
@@ -2461,7 +2568,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0108">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">मोक्षणे</span>
@@ -2474,7 +2582,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0109">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0109-h">
     <span class="deva" lang="sa">तस्</span>
     <span class="iast">tas</span>
     <span class="skt-id">#04.0109</span>
@@ -2484,7 +2592,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0109">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">उपक्षये</span>
@@ -2497,7 +2606,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0110">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0110-h">
     <span class="deva" lang="sa">दस्</span>
     <span class="iast">das</span>
     <span class="skt-id">#04.0110</span>
@@ -2507,7 +2616,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0110">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">उपक्षये</span>
@@ -2520,7 +2630,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0111">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0111-h">
     <span class="deva" lang="sa">वस्</span>
     <span class="iast">vas</span>
     <span class="skt-id">#04.0111</span>
@@ -2530,7 +2640,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0111">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">स्तम्भे</span>
@@ -2543,7 +2654,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0112">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0112-h">
     <span class="deva" lang="sa">बस्</span>
     <span class="iast">bas</span>
     <span class="skt-id">#04.0112</span>
@@ -2553,7 +2664,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0112">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">स्तम्भे</span>
@@ -2565,7 +2677,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0113">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0113-h">
     <span class="deva" lang="sa">युस्</span>
     <span class="iast">yus</span>
     <span class="skt-id">#04.0113</span>
@@ -2575,7 +2687,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0113">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विभागे</span>
@@ -2587,7 +2700,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0114">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0114-h">
     <span class="deva" lang="sa">व्युष्</span>
     <span class="iast">vyuṣ</span>
     <span class="skt-id">#04.0114</span>
@@ -2597,7 +2710,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0114">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विभागे</span>
@@ -2610,7 +2724,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0115">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0115-h">
     <span class="deva" lang="sa">व्युस्</span>
     <span class="iast">vyus</span>
     <span class="skt-id">#04.0115</span>
@@ -2620,7 +2734,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0115">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विभागे</span>
@@ -2632,7 +2747,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0116">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0116-h">
     <span class="deva" lang="sa">ब्युस्</span>
     <span class="iast">byus</span>
     <span class="skt-id">#04.0116</span>
@@ -2642,7 +2757,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0116">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विभागे</span>
@@ -2654,7 +2770,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0117">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0117-h">
     <span class="deva" lang="sa">बुस्</span>
     <span class="iast">bus</span>
     <span class="skt-id">#04.0117</span>
@@ -2664,7 +2780,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0117">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विभागे</span>
@@ -2676,7 +2793,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0118">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0118-h">
     <span class="deva" lang="sa">वुस्</span>
     <span class="iast">vus</span>
     <span class="skt-id">#04.0118</span>
@@ -2686,7 +2803,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0118">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विभागे</span>
@@ -2698,7 +2816,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0119">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0119-h">
     <span class="deva" lang="sa">प्युष्</span>
     <span class="iast">pyuṣ</span>
     <span class="skt-id">#04.0119</span>
@@ -2708,7 +2826,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0119">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विभागे</span>
@@ -2720,7 +2839,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0120">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0120-h">
     <span class="deva" lang="sa">प्युस्</span>
     <span class="iast">pyus</span>
     <span class="skt-id">#04.0120</span>
@@ -2730,7 +2849,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0120">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विभागे</span>
@@ -2742,7 +2862,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0121">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0121-h">
     <span class="deva" lang="sa">पुष्</span>
     <span class="iast">puṣ</span>
     <span class="skt-id">#04.0121</span>
@@ -2752,7 +2872,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0121">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विभागे</span>
@@ -2764,7 +2885,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0122">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0122-h">
     <span class="deva" lang="sa">प्लुष्</span>
     <span class="iast">pluṣ</span>
     <span class="skt-id">#04.0122</span>
@@ -2774,7 +2895,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0122">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">दाहे</span>
@@ -2787,7 +2909,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0123">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0123-h">
     <span class="deva" lang="sa">विस्</span>
     <span class="iast">vis</span>
     <span class="skt-id">#04.0123</span>
@@ -2797,7 +2919,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0123">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्रेरणे</span>
@@ -2810,7 +2933,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0124">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0124-h">
     <span class="deva" lang="sa">बिस्</span>
     <span class="iast">bis</span>
     <span class="skt-id">#04.0124</span>
@@ -2820,7 +2943,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0124">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">प्रेरणे</span>
@@ -2832,7 +2956,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0125">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0125-h">
     <span class="deva" lang="sa">कुस्</span>
     <span class="iast">kus</span>
     <span class="skt-id">#04.0125</span>
@@ -2842,7 +2966,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0125">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">संश्लेषणे</span>
@@ -2855,7 +2980,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0126">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0126-h">
     <span class="deva" lang="sa">कुश्</span>
     <span class="iast">kuś</span>
     <span class="skt-id">#04.0126</span>
@@ -2865,7 +2990,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0126">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">संश्लेषणे</span>
@@ -2877,7 +3003,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0127">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0127-h">
     <span class="deva" lang="sa">स्विद्</span>
     <span class="iast">svid</span>
     <span class="skt-id">#04.0127</span>
@@ -2887,7 +3013,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0127">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">गात्रप्रक्षरणे</span>
@@ -2899,7 +3026,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0128">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0128-h">
     <span class="deva" lang="sa">क्षम्</span>
     <span class="iast">kṣam</span>
     <span class="skt-id">#04.0128</span>
@@ -2909,7 +3036,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0128">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">सहने</span>
@@ -2921,7 +3049,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0129">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0129-h">
     <span class="deva" lang="sa">बुस्</span>
     <span class="iast">bus</span>
     <span class="skt-id">#04.0129</span>
@@ -2931,7 +3059,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0129">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">उत्सर्गे</span>
@@ -2943,7 +3072,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0130">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0130-h">
     <span class="deva" lang="sa">मुस्</span>
     <span class="iast">mus</span>
     <span class="skt-id">#04.0130</span>
@@ -2953,7 +3082,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0130">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">खण्डने</span>
@@ -2966,7 +3096,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0131">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0131-h">
     <span class="deva" lang="sa">मस्</span>
     <span class="iast">mas</span>
     <span class="skt-id">#04.0131</span>
@@ -2976,7 +3106,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0131">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">परिणामे</span>
@@ -2989,7 +3120,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0132">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0132-h">
     <span class="deva" lang="sa">सम्</span>
     <span class="iast">sam</span>
     <span class="skt-id">#04.0132</span>
@@ -2999,7 +3130,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0132">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">परिणामे</span>
@@ -3011,7 +3143,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0133">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0133-h">
     <span class="deva" lang="sa">लुट्</span>
     <span class="iast">luṭ</span>
     <span class="skt-id">#04.0133</span>
@@ -3021,7 +3153,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0133">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विलोडने</span>
@@ -3034,7 +3167,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0134">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0134-h">
     <span class="deva" lang="sa">लुठ्</span>
     <span class="iast">luṭh</span>
     <span class="skt-id">#04.0134</span>
@@ -3044,7 +3177,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0134">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विलोडने</span>
@@ -3056,7 +3190,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0135">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0135-h">
     <span class="deva" lang="sa">उच्</span>
     <span class="iast">uc</span>
     <span class="skt-id">#04.0135</span>
@@ -3066,7 +3200,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0135">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">समवाये</span>
@@ -3079,7 +3214,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0136">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0136-h">
     <span class="deva" lang="sa">भृश्</span>
     <span class="iast">bhṛś</span>
     <span class="skt-id">#04.0136</span>
@@ -3089,7 +3224,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0136">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अधःपतने</span>
@@ -3101,7 +3237,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0137">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0137-h">
     <span class="deva" lang="sa">स्तिम्</span>
     <span class="iast">stim</span>
     <span class="skt-id">#04.0137</span>
@@ -3111,7 +3247,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0137">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आर्द्रीभावे</span>
@@ -3123,7 +3260,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0138">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0138-h">
     <span class="deva" lang="sa">भ्रंश्</span>
     <span class="iast">bhraṃś</span>
     <span class="skt-id">#04.0138</span>
@@ -3133,7 +3270,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0138">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अधःपतने</span>
@@ -3145,7 +3283,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0139">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0139-h">
     <span class="deva" lang="sa">वृश्</span>
     <span class="iast">vṛś</span>
     <span class="skt-id">#04.0139</span>
@@ -3155,7 +3293,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0139">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आवरणे</span>
@@ -3167,7 +3306,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0140">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0140-h">
     <span class="deva" lang="sa">कृश्</span>
     <span class="iast">kṛś</span>
     <span class="skt-id">#04.0140</span>
@@ -3177,7 +3316,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0140">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">तनूकरणे</span>
@@ -3189,7 +3329,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0141">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0141-h">
     <span class="deva" lang="sa">तृष्</span>
     <span class="iast">tṛṣ</span>
     <span class="skt-id">#04.0141</span>
@@ -3199,7 +3339,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0141">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">पिपासायाम्</span>
@@ -3212,7 +3353,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0142">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0142-h">
     <span class="deva" lang="sa">हृष्</span>
     <span class="iast">hṛṣ</span>
     <span class="skt-id">#04.0142</span>
@@ -3222,7 +3363,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0142">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">तुष्टौ</span>
@@ -3235,7 +3377,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0143">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0143-h">
     <span class="deva" lang="sa">रुष्</span>
     <span class="iast">ruṣ</span>
     <span class="skt-id">#04.0143</span>
@@ -3245,7 +3387,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0143">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसायाम्</span>
@@ -3258,7 +3401,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0144">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0144-h">
     <span class="deva" lang="sa">रिष्</span>
     <span class="iast">riṣ</span>
     <span class="skt-id">#04.0144</span>
@@ -3268,7 +3411,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0144">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसायाम्</span>
@@ -3280,7 +3424,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0145">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0145-h">
     <span class="deva" lang="sa">डिप्</span>
     <span class="iast">ḍip</span>
     <span class="skt-id">#04.0145</span>
@@ -3290,7 +3434,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0145">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">क्षेपे</span>
@@ -3303,7 +3448,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0146">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0146-h">
     <span class="deva" lang="sa">कुप्</span>
     <span class="iast">kup</span>
     <span class="skt-id">#04.0146</span>
@@ -3313,7 +3458,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0146">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">क्रोधे</span>
@@ -3326,7 +3472,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0147">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0147-h">
     <span class="deva" lang="sa">गुप्</span>
     <span class="iast">gup</span>
     <span class="skt-id">#04.0147</span>
@@ -3336,7 +3482,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0147">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">व्याकुलत्वे</span>
@@ -3349,7 +3496,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0148">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0148-h">
     <span class="deva" lang="sa">युप्</span>
     <span class="iast">yup</span>
     <span class="skt-id">#04.0148</span>
@@ -3359,7 +3506,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0148">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विमोहने</span>
@@ -3372,7 +3520,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0149">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0149-h">
     <span class="deva" lang="sa">रुप्</span>
     <span class="iast">rup</span>
     <span class="skt-id">#04.0149</span>
@@ -3382,7 +3530,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0149">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विमोहने</span>
@@ -3395,7 +3544,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0150">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0150-h">
     <span class="deva" lang="sa">लुप्</span>
     <span class="iast">lup</span>
     <span class="skt-id">#04.0150</span>
@@ -3405,7 +3554,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0150">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">विमोहने</span>
@@ -3417,7 +3567,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0151">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0151-h">
     <span class="deva" lang="sa">स्तुप्</span>
     <span class="iast">stup</span>
     <span class="skt-id">#04.0151</span>
@@ -3427,7 +3577,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0151">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">समुच्छ्राये</span>
@@ -3439,7 +3590,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0152">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0152-h">
     <span class="deva" lang="sa">स्तूप्</span>
     <span class="iast">stūp</span>
     <span class="skt-id">#04.0152</span>
@@ -3449,7 +3600,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0152">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">समुच्छ्राये</span>
@@ -3461,7 +3613,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0153">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0153-h">
     <span class="deva" lang="sa">लुभ्</span>
     <span class="iast">lubh</span>
     <span class="skt-id">#04.0153</span>
@@ -3471,7 +3623,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0153">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">गार्द्ध्ये</span>
@@ -3484,7 +3637,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0154">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0154-h">
     <span class="deva" lang="sa">क्षुभ्</span>
     <span class="iast">kṣubh</span>
     <span class="skt-id">#04.0154</span>
@@ -3494,7 +3647,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0154">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">सञ्चलने</span>
@@ -3507,7 +3661,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0155">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0155-h">
     <span class="deva" lang="sa">नभ्</span>
     <span class="iast">nabh</span>
     <span class="skt-id">#04.0155</span>
@@ -3517,7 +3671,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0155">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसायाम्</span>
@@ -3530,7 +3685,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0156">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0156-h">
     <span class="deva" lang="sa">तुभ्</span>
     <span class="iast">tubh</span>
     <span class="skt-id">#04.0156</span>
@@ -3540,7 +3695,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0156">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">हिंसायाम्</span>
@@ -3552,7 +3708,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0157">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0157-h">
     <span class="deva" lang="sa">क्लिद्</span>
     <span class="iast">klid</span>
     <span class="skt-id">#04.0157</span>
@@ -3562,7 +3718,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0157">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">आर्द्रीभावे</span>
@@ -3575,7 +3732,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0158">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0158-h">
     <span class="deva" lang="sa">मिद्</span>
     <span class="iast">mid</span>
     <span class="skt-id">#04.0158</span>
@@ -3585,7 +3742,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 80">S. 80</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0158">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">स्नेहने</span>
@@ -3598,7 +3756,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0159">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0159-h">
     <span class="deva" lang="sa">क्ष्विद्</span>
     <span class="iast">kṣvid</span>
     <span class="skt-id">#04.0159</span>
@@ -3608,7 +3766,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 82">S. 82</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0159">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">स्नेहनमोचनयोः</span>
@@ -3621,7 +3780,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0160">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0160-h">
     <span class="deva" lang="sa">ऋध्</span>
     <span class="iast">ṛdh</span>
     <span class="skt-id">#04.0160</span>
@@ -3631,7 +3790,8 @@ outline: [2, 3]
       <span class="badge badge-karma">akarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 80">S. 80</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0160">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">वृद्धौ</span>
@@ -3644,7 +3804,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0161">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0161-h">
     <span class="deva" lang="sa">गृध्</span>
     <span class="iast">gṛdh</span>
     <span class="skt-id">#04.0161</span>
@@ -3654,7 +3814,8 @@ outline: [2, 3]
       <span class="badge badge-karma">sakarmaka</span>
       <span class="badge badge-page" title="Historischer Druck Seite 80">S. 80</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0161">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
       <span class="deva-artha" lang="sa">अभिकाङ्क्षायाम्</span>
@@ -3667,7 +3828,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0162">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0162-h">
     <span class="deva" lang="sa">स्वादयः ओदितः</span>
     <span class="iast">svādayaḥ oditaḥ</span>
     <span class="skt-id">#04.0162</span>
@@ -3677,7 +3838,8 @@ outline: [2, 3]
       <span class="badge badge-karma">-</span>
       <span class="badge badge-page" title="Historischer Druck Seite 79">S. 79</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0162">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
     </div>
@@ -3686,7 +3848,7 @@ outline: [2, 3]
 </div>
 
 <div class="skt-entry" id="entry-04.0163">
-  <div class="skt-header-line">
+  <h3 class="skt-header-line" id="entry-04.0163-h">
     <span class="deva" lang="sa">राधोऽकर्मकाद् वृद्धावेव</span>
     <span class="iast">rādho&#x27;karmakād vṛddhāveva</span>
     <span class="skt-id">#04.0163</span>
@@ -3696,7 +3858,8 @@ outline: [2, 3]
       <span class="badge badge-karma">-</span>
       <span class="badge badge-page" title="Historischer Druck Seite 83">S. 83</span>
     </div>
-  </div>
+    <a class="header-anchor" href="#entry-04.0163">&#x200b;</a>
+  </h3>
   <div class="skt-body">
     <div class="skt-meaning">
     </div>
