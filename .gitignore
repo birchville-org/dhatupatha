@@ -1,0 +1,21 @@
+# System & OS
+.DS_Store
+Thumbs.db
+
+# Large Raw Scan Files (archived externally / via Releases)
+*.sandwich.pdf
+*.perfect_sandwich.pdf
+img_cache/
+raw_scans/
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Build Artefacts
+site/
+dist/
+*.tmp
