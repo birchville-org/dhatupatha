@@ -1,0 +1,14 @@
+{
+  "name": "dhatupatha",
+  "version": "1.0.0",
+  "description": "Pāṇinīya-Dhātupāṭha — Kanonische Neuedition (2.259 Sanskrit-Verbalwurzeln) mit VitePress & Typst-Vektorsatz",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "mkdir -p docs/public && cp -f data/pdf/Dhatu-patha.typeset_edition.pdf docs/public/ 2>/dev/null || true; vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "build:dict": "python3 scripts/generate_vitepress_dict.py"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

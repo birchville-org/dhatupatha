@@ -100,7 +100,22 @@ Jeder der 2.259 Einträge besitzt folgende Struktur:
 
 ---
 
-## 5. Repository-Struktur
+## 5. VitePress-Entwicklung & Build
+
+```bash
+# Entwicklungsserver starten (VitePress)
+npm run docs:dev
+
+# Statisches Produktions-Build erstellen
+npm run docs:build
+
+# Lexikon-Seiten aus kanonischen Daten neu generieren
+npm run build:dict
+```
+
+---
+
+## 6. Repository-Struktur
 
 ```text
 dhatupatha/
@@ -113,17 +128,21 @@ dhatupatha/
 │   └── pdf/
 │       ├── Dhatu-patha.typeset_edition.pdf # Typografische Vektor-Neuedition (3,0 MB)
 │       └── Dhatu-patha.typeset.typ         # Typst Quellcode der Neuedition (1,8 MB)
-├── docs/                             # Zweisprachige MkDocs-Dokumentation
-│   ├── de/                           # Deutsche Dokumentation (Default)
-│   ├── en/                           # Englische Dokumentation
-│   ├── assets/                       # Wappen und Bildressourcen
-│   └── stylesheets/                  # Birchville Scholarly Synthesis Theme
+├── docs/                             # Interaktive VitePress-Plattform
+│   ├── .vitepress/                   # VitePress Konfiguration & Theme
+│   │   ├── config.mjs                # Navigation, Suche & Metadaten
+│   │   └── theme/                    # Scholarly Synthesis CSS & Komponenten
+│   ├── gana/                         # 10 Gaṇa-Lexikonseiten (2.259 Wurzeln)
+│   ├── guide/                        # Wissenschaftliche Begleitdokumentation
+│   ├── public/                       # Statische Assets & PDF-Download
+│   └── index.md                      # Interaktive Startseite & Gaṇa-Grid
 ├── scripts/
 │   ├── build_dhatupatha_groundtruth.py # Generiert kanonische Ground-Truth
 │   ├── align_dhatupatha.py             # Bilinguale Facing-Page-Alignment-Engine
-│   └── build_typeset_edition.py        # Typst-Vektorsatz-Compiler
+│   ├── build_typeset_edition.py        # Typst-Vektorsatz-Compiler
+│   └── generate_vitepress_dict.py      # VitePress Lexikon-Generator
 ├── viewer.html                       # Autarker QA-Viewer (Payer-Standard)
-├── mkdocs.yml                        # Konfiguration der Dokumentation
+├── package.json                      # Node.js & VitePress Konfiguration
 ├── pyproject.toml                    # Python Projektkonfiguration
 ├── requirements.txt                  # Python Abhängigkeiten
 ├── LICENSE                           # MIT Lizenz
@@ -132,7 +151,7 @@ dhatupatha/
 
 ---
 
-## 6. Verwandte Editionen & Links
+## 7. Verwandte Editionen & Links
 
 * 🏛️ **Digitalisierungs-Pipeline:** [birchville-org/AlexandriaSandwich](https://github.com/birchville-org/AlexandriaSandwich)
 * 📖 **Pāṇinis Grammatik (1887):** [birchville-org/boethlingk](https://github.com/birchville-org/boethlingk)

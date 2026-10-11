@@ -18,4 +18,7 @@ venv/
 # Build Artefacts
 site/
 dist/
+node_modules/
+.vitepress/dist
+.vitepress/cache
 *.tmp
