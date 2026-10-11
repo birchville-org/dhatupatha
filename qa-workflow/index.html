@@ -1,0 +1,1176 @@
+
+<!doctype html>
+<html lang="de" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Kanonische Ground-Truth, bilinguale Facing-Page-Alignment-Pipeline und layouttreue Typst-Vektorneuedition für 2.259 Verbalwurzeln nach dem Böhtlingk-Standard.">
+      
+      
+        <meta name="author" content="Marco Demarmels">
+      
+      
+        <link rel="canonical" href="https://birchville-org.github.io/dhatupatha/qa-workflow/">
+      
+      
+        <link rel="prev" href="../case-study/">
+      
+      
+        <link rel="next" href="../copyright-and-provenance/">
+      
+      
+        
+          <link rel="alternate" href="./" hreflang="de">
+        
+          <link rel="alternate" href="../en/qa-workflow/" hreflang="en">
+        
+      
+      
+      <link rel="icon" href="../assets/birchville_logo.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>QA- & Korrektur-Workflow - Pāṇinīya-Dhātupāṭha (Kanonische Neuedition)</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/birchville.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#qa-korrektur-workflow" class="md-skip">
+          Zum Inhalt
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Kopfzeile">
+    <a href=".." title="Pāṇinīya-Dhātupāṭha (Kanonische Neuedition)" class="md-header__button md-logo" aria-label="Pāṇinīya-Dhātupāṭha (Kanonische Neuedition)" data-md-component="logo">
+      
+  <img src="../assets/birchville_logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Pāṇinīya-Dhātupāṭha (Kanonische Neuedition)
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              QA- & Korrektur-Workflow
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Zum dunklen Modus wechseln"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Zum dunklen Modus wechseln" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Zum hellen Modus wechseln"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Zum hellen Modus wechseln" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="Sprache wechseln">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="./" hreflang="de" class="md-select__link">
+              Deutsch
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../en/qa-workflow/" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Suche" placeholder="Suche" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Suche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Zurücksetzen" aria-label="Zurücksetzen" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/birchville-org/dhatupatha" title="Zum Repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    birchville-org/dhatupatha
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Hauptnavigation" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Startseite
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../case-study/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Fallstudie
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+  
+    
+  
+  QA- & Korrektur-Workflow
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../copyright-and-provenance/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Urheberrecht & Provenienz
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../data-architecture/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Datenarchitektur
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../conventions/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Konventionen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../wiki-home/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Wiki-Übersicht
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Pāṇinīya-Dhātupāṭha (Kanonische Neuedition)" class="md-nav__button md-logo" aria-label="Pāṇinīya-Dhātupāṭha (Kanonische Neuedition)" data-md-component="logo">
+      
+  <img src="../assets/birchville_logo.png" alt="logo">
+
+    </a>
+    Pāṇinīya-Dhātupāṭha (Kanonische Neuedition)
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/birchville-org/dhatupatha" title="Zum Repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    birchville-org/dhatupatha
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Startseite
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../case-study/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fallstudie
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    QA- & Korrektur-Workflow
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    QA- & Korrektur-Workflow
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#das-architekturprinzip-single-source-of-truth" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🏛️ Das Architekturprinzip: Single Source of Truth
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#weg-1-visuelle-kollationierung-mit-dem-qa-viewer-empfohlen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔍 Weg 1: Visuelle Kollationierung mit dem QA-Viewer (Empfohlen)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🔍 Weg 1: Visuelle Kollationierung mit dem QA-Viewer (Empfohlen)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-lokalen-server-starten" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Lokalen Server starten
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-bedienung-editor-funktionen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Bedienung &amp; Editor-Funktionen
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-speichern-mit-silent-auto-repair" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Speichern mit Silent Auto-Repair
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#weg-2-gezielte-bearbeitung-im-code-editor" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⌨️ Weg 2: Gezielte Bearbeitung im Code-Editor
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#schritt-3-typst-buchausgabe-neu-kompilieren" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⚡ Schritt 3: Typst-Buchausgabe neu kompilieren
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#schritt-4-prufen-committen-pull-request-kuratierungs-workflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🚀 Schritt 4: Prüfen, Committen &amp; Pull Request (Kuratierungs-Workflow)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🚀 Schritt 4: Prüfen, Committen &amp; Pull Request (Kuratierungs-Workflow)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-lokale-integritatsprufung-ausfuhren" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Lokale Integritätsprüfung ausführen
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-feature-branch-erstellen-committen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Feature-Branch erstellen &amp; committen
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-branch-pushen-pull-request-eroffnen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Branch pushen &amp; Pull Request eröffnen
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-kuratierung-review" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Kuratierung &amp; Review
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../copyright-and-provenance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Urheberrecht & Provenienz
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../data-architecture/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Datenarchitektur
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../conventions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Konventionen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../wiki-home/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Wiki-Übersicht
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#das-architekturprinzip-single-source-of-truth" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🏛️ Das Architekturprinzip: Single Source of Truth
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#weg-1-visuelle-kollationierung-mit-dem-qa-viewer-empfohlen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔍 Weg 1: Visuelle Kollationierung mit dem QA-Viewer (Empfohlen)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🔍 Weg 1: Visuelle Kollationierung mit dem QA-Viewer (Empfohlen)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-lokalen-server-starten" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Lokalen Server starten
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-bedienung-editor-funktionen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Bedienung &amp; Editor-Funktionen
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-speichern-mit-silent-auto-repair" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Speichern mit Silent Auto-Repair
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#weg-2-gezielte-bearbeitung-im-code-editor" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⌨️ Weg 2: Gezielte Bearbeitung im Code-Editor
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#schritt-3-typst-buchausgabe-neu-kompilieren" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⚡ Schritt 3: Typst-Buchausgabe neu kompilieren
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#schritt-4-prufen-committen-pull-request-kuratierungs-workflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🚀 Schritt 4: Prüfen, Committen &amp; Pull Request (Kuratierungs-Workflow)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🚀 Schritt 4: Prüfen, Committen &amp; Pull Request (Kuratierungs-Workflow)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-lokale-integritatsprufung-ausfuhren" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Lokale Integritätsprüfung ausführen
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-feature-branch-erstellen-committen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Feature-Branch erstellen &amp; committen
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-branch-pushen-pull-request-eroffnen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Branch pushen &amp; Pull Request eröffnen
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-kuratierung-review" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Kuratierung &amp; Review
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="qa-korrektur-workflow">🛠️ QA- &amp; Korrektur-Workflow</h1>
+<p>Dieser Leitfaden beschreibt, wie Textungenauigkeiten, Diakritika oder grammatische Attribut-Korrekturen im Projekt <code>dhatupatha</code> kollationiert, korrigiert und deterministisch in alle Editions-Artefakte (Typst-Buch-PDF, kanonische Datenbanken) übernommen werden.</p>
+<hr />
+<h2 id="das-architekturprinzip-single-source-of-truth">🏛️ Das Architekturprinzip: Single Source of Truth</h2>
+<p>Alle Korrekturen erfolgen <strong>ausschließlich an einer einzigen zentralen Stelle</strong>:
+👉 <a href="https://github.com/birchville-org/dhatupatha/blob/main/data/dhatupatha_complete.json"><code>data/dhatupatha_complete.json</code></a></p>
+<p>Manuelle Änderungen in generierten Ausgabedateien (wie der Typst-PDF-Ausgabe) sind strikt zu vermeiden, da diese Dateien bei jedem Build-Lauf automatisiert überschrieben werden.</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>                               ┌────────────────────────┐
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>                               │     Korrektur in       │
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>                               │   Master-JSON-Datei    │
+<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a>                               │(dhatupatha_complete)   │
+<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a>                               └───────────┬────────────┘
+<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a>                                           │
+<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a>                      ┌────────────────────┴────────────────────┐
+<a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a>                      ▼                                         ▼
+<a id="__codelineno-0-9" name="__codelineno-0-9" href="#__codelineno-0-9"></a>         scripts/build_typeset_edition.py             viewer.html (QA-Viewer)
+<a id="__codelineno-0-10" name="__codelineno-0-10" href="#__codelineno-0-10"></a>                      │                                         │
+<a id="__codelineno-0-11" name="__codelineno-0-11" href="#__codelineno-0-11"></a>                      ▼                                         ▼
+<a id="__codelineno-0-12" name="__codelineno-0-12" href="#__codelineno-0-12"></a>          [Dhatu-patha.typeset_edition.pdf]             Visuelle Verifikation &amp;
+<a id="__codelineno-0-13" name="__codelineno-0-13" href="#__codelineno-0-13"></a>               (Modernes Buch-PDF)                      Sofort-Filter (10 Gaṇas)
+</code></pre></div>
+<hr />
+<h2 id="weg-1-visuelle-kollationierung-mit-dem-qa-viewer-empfohlen">🔍 Weg 1: Visuelle Kollationierung mit dem QA-Viewer (Empfohlen)</h2>
+<p>Für die Überprüfung von Wurzeln, Bedeutungen und Gaṇa-Attributen enthält das Repository den autarken Editor <a href="https://github.com/birchville-org/dhatupatha/blob/main/viewer.html"><code>viewer.html</code></a>.</p>
+<h3 id="1-lokalen-server-starten">1. Lokalen Server starten</h3>
+<p>Aufgrund von Browser-Sicherheitsrichtlinien (CORS) empfiehlt sich ein lokaler Webserver:
+<div class="highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>python3<span class="w"> </span>-m<span class="w"> </span>http.server<span class="w"> </span><span class="m">8000</span>
+</code></pre></div>
+Öffnen Sie im Browser: <code>http://localhost:8000/viewer.html</code></p>
+<h3 id="2-bedienung-editor-funktionen">2. Bedienung &amp; Editor-Funktionen</h3>
+<ul>
+<li><strong>Linker Bereich (Philologischer Kontext &amp; Status):</strong> Zeigt Gaṇa-Zuordnung, Original-Seitenzahl (<code>[S. XX]</code>), Pāṇinīya-Klassifikationen (Pada, Seṭ/Aniṭ, Sakarmaka/Akarmaka) sowie Schnellnavigation.</li>
+<li><strong>Rechter Bereich (Wurzel-Editor):</strong> Die Daten des ausgewählten Eintrags sind direkt editierbar:</li>
+<li><code>dhatu</code>: Wurzel in Devanāgarī</li>
+<li><code>iast_dhatu</code>: Wissenschaftliche Transliteration</li>
+<li><code>aupadeshik</code>: Aupadeśika-Form mit It-Markern</li>
+<li><code>artha</code>: Sanskrit-Bedeutung im Lokativ</li>
+<li><code>artha_english</code>: Englische Übersetzung</li>
+<li><strong>Snippet-Toolbar:</strong> Direkte Schaltflächen zum Einfügen von Dandas (<code>॥</code>, <code>।</code>, <code>ऽ</code>, <code>°</code>), Akzenten (<code>॑</code>, <code>॒</code>) und allen IAST-Diakritika (<code>ā</code>, <code>ī</code>, <code>ū</code>, <code>ṛ</code>, <code>ñ</code>, <code>ṭ</code>, <code>ḍ</code>, <code>ṇ</code>, <code>ś</code>, <code>ṣ</code>).</li>
+<li><strong>Sofort-Filter:</strong> Filterung nach den 10 Gaṇas und Volltextsuche über Wurzeln, Umschriften und Bedeutungen.</li>
+</ul>
+<h3 id="3-speichern-mit-silent-auto-repair">3. Speichern mit Silent Auto-Repair</h3>
+<ul>
+<li>Drücken Sie <code>Cmd+S</code> (Mac) bzw. <code>Ctrl+S</code> (Windows/Linux) oder klicken Sie auf <strong>„Speichern (JSON)“</strong>.</li>
+<li>Der Editor führt ein unaufdringliches <em>Silent Auto-Repair</em> durch (Bereinigung doppelter Leerzeichen, Wandlung von Pipes in Dandas) und speichert den Datensatz direkt über die <em>File System Access API</em> in <code>data/dhatupatha_complete.json</code>.</li>
+<li>Visuelles Feedback erfolgt durch ein kurzes gelbes Blinken der Schaltfläche ohne störende Popups.</li>
+</ul>
+<hr />
+<h2 id="weg-2-gezielte-bearbeitung-im-code-editor">⌨️ Weg 2: Gezielte Bearbeitung im Code-Editor</h2>
+<p>Wenn Ihnen die Wurzel-ID (z. B. <code>1</code> für <em>bhū</em>) oder die Devanāgarī-Form bekannt ist:</p>
+<ol>
+<li>Öffnen Sie <code>data/dhatupatha_complete.json</code> in VS Code oder Ihrem bevorzugten Editor.</li>
+<li>Suchen Sie nach <code>"id": 1</code> oder <code>"dhatu": "भू"</code>.</li>
+<li>Passen Sie die Felder an:
+   <div class="highlight"><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="p">{</span>
+<a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a><span class="w">  </span><span class="nt">"id"</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span>
+<a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a><span class="w">  </span><span class="nt">"gana"</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span>
+<a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a><span class="w">  </span><span class="nt">"gana_name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"भ्वादिगणः"</span><span class="p">,</span>
+<a id="__codelineno-2-5" name="__codelineno-2-5" href="#__codelineno-2-5"></a><span class="w">  </span><span class="nt">"gana_iast"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Bhvādigaṇaḥ"</span><span class="p">,</span>
+<a id="__codelineno-2-6" name="__codelineno-2-6" href="#__codelineno-2-6"></a><span class="w">  </span><span class="nt">"dhatu"</span><span class="p">:</span><span class="w"> </span><span class="s2">"भू"</span><span class="p">,</span>
+<a id="__codelineno-2-7" name="__codelineno-2-7" href="#__codelineno-2-7"></a><span class="w">  </span><span class="nt">"iast_dhatu"</span><span class="p">:</span><span class="w"> </span><span class="s2">"bhū"</span><span class="p">,</span>
+<a id="__codelineno-2-8" name="__codelineno-2-8" href="#__codelineno-2-8"></a><span class="w">  </span><span class="nt">"aupadeshik"</span><span class="p">:</span><span class="w"> </span><span class="s2">"भू"</span><span class="p">,</span>
+<a id="__codelineno-2-9" name="__codelineno-2-9" href="#__codelineno-2-9"></a><span class="w">  </span><span class="nt">"iast_aupadeshik"</span><span class="p">:</span><span class="w"> </span><span class="s2">"bhū"</span><span class="p">,</span>
+<a id="__codelineno-2-10" name="__codelineno-2-10" href="#__codelineno-2-10"></a><span class="w">  </span><span class="nt">"pada"</span><span class="p">:</span><span class="w"> </span><span class="s2">"parasmaipada"</span><span class="p">,</span>
+<a id="__codelineno-2-11" name="__codelineno-2-11" href="#__codelineno-2-11"></a><span class="w">  </span><span class="nt">"settva"</span><span class="p">:</span><span class="w"> </span><span class="s2">"seṭ"</span><span class="p">,</span>
+<a id="__codelineno-2-12" name="__codelineno-2-12" href="#__codelineno-2-12"></a><span class="w">  </span><span class="nt">"karma"</span><span class="p">:</span><span class="w"> </span><span class="s2">"akarmaka"</span><span class="p">,</span>
+<a id="__codelineno-2-13" name="__codelineno-2-13" href="#__codelineno-2-13"></a><span class="w">  </span><span class="nt">"artha"</span><span class="p">:</span><span class="w"> </span><span class="s2">"सत्तायाम्"</span><span class="p">,</span>
+<a id="__codelineno-2-14" name="__codelineno-2-14" href="#__codelineno-2-14"></a><span class="w">  </span><span class="nt">"iast_artha"</span><span class="p">:</span><span class="w"> </span><span class="s2">"sattāyām"</span><span class="p">,</span>
+<a id="__codelineno-2-15" name="__codelineno-2-15" href="#__codelineno-2-15"></a><span class="w">  </span><span class="nt">"artha_english"</span><span class="p">:</span><span class="w"> </span><span class="s2">"to be, to exist"</span><span class="p">,</span>
+<a id="__codelineno-2-16" name="__codelineno-2-16" href="#__codelineno-2-16"></a><span class="w">  </span><span class="nt">"orig_page"</span><span class="p">:</span><span class="w"> </span><span class="mi">26</span><span class="p">,</span>
+<a id="__codelineno-2-17" name="__codelineno-2-17" href="#__codelineno-2-17"></a><span class="w">  </span><span class="nt">"commentary_note"</span><span class="p">:</span><span class="w"> </span><span class="s2">""</span>
+<a id="__codelineno-2-18" name="__codelineno-2-18" href="#__codelineno-2-18"></a><span class="p">}</span>
+</code></pre></div></li>
+<li>Datei speichern.</li>
+</ol>
+<hr />
+<h2 id="schritt-3-typst-buchausgabe-neu-kompilieren">⚡ Schritt 3: Typst-Buchausgabe neu kompilieren</h2>
+<p>Nach dem Speichern der Korrektur führen Sie im Terminal das Build-Skript aus:</p>
+<p><div class="highlight"><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a>python3<span class="w"> </span>scripts/build_typeset_edition.py<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a><span class="w">  </span>--input<span class="w"> </span>data/dhatupatha_complete.json<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a><span class="w">  </span>--output<span class="w"> </span>data/pdf/Dhatu-patha.typeset_edition.pdf
+</code></pre></div>
+Kompiliert die druckreife 229-seitige Vektorausgabe in ca. 2,4 Sekunden neu.</p>
+<hr />
+<h2 id="schritt-4-prufen-committen-pull-request-kuratierungs-workflow">🚀 Schritt 4: Prüfen, Committen &amp; Pull Request (Kuratierungs-Workflow)</h2>
+<p>Das Projekt <code>dhatupatha</code> wird als <strong>wissenschaftlich kuratierte Edition</strong> (Curated Edition, Birchville-Standard) geführt.</p>
+<h3 id="1-lokale-integritatsprufung-ausfuhren">1. Lokale Integritätsprüfung ausführen</h3>
+<p>Vor jedem Commit ist sicherzustellen, dass alle 2.259 Wurzeln lückenlos erhalten sind:</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a>python3<span class="w"> </span>-c<span class="w"> </span><span class="s2">"</span>
+<a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a><span class="s2">import json</span>
+<a id="__codelineno-4-3" name="__codelineno-4-3" href="#__codelineno-4-3"></a><span class="s2">with open('data/dhatupatha_complete.json', encoding='utf-8') as f:</span>
+<a id="__codelineno-4-4" name="__codelineno-4-4" href="#__codelineno-4-4"></a><span class="s2">    d = json.load(f)</span>
+<a id="__codelineno-4-5" name="__codelineno-4-5" href="#__codelineno-4-5"></a><span class="s2">assert len(d) == 2259, f'Fehler: Erwartet 2259 Wurzeln, gefunden {len(d)}'</span>
+<a id="__codelineno-4-6" name="__codelineno-4-6" href="#__codelineno-4-6"></a><span class="s2">print('Integrität: 100% OK (2.259 Wurzeln)')</span>
+<a id="__codelineno-4-7" name="__codelineno-4-7" href="#__codelineno-4-7"></a><span class="s2">"</span>
+</code></pre></div>
+<h3 id="2-feature-branch-erstellen-committen">2. Feature-Branch erstellen &amp; committen</h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a>git<span class="w"> </span>checkout<span class="w"> </span>-b<span class="w"> </span>fix/root-bhu-1
+<a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a>git<span class="w"> </span>add<span class="w"> </span>data/dhatupatha_complete.json
+<a id="__codelineno-5-3" name="__codelineno-5-3" href="#__codelineno-5-3"></a>git<span class="w"> </span>commit<span class="w"> </span>-m<span class="w"> </span><span class="s2">"fix(root): correct artha reading for dhatu 1 (bhu)"</span>
+</code></pre></div>
+<h3 id="3-branch-pushen-pull-request-eroffnen">3. Branch pushen &amp; Pull Request eröffnen</h3>
+<p><div class="highlight"><pre><span></span><code><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a>git<span class="w"> </span>push<span class="w"> </span>-u<span class="w"> </span>origin<span class="w"> </span>fix/root-bhu-1
+</code></pre></div>
+Eröffnen Sie anschließend auf GitHub einen Pull Request gegen den Branch <code>main</code>.</p>
+<h3 id="4-kuratierung-review">4. Kuratierung &amp; Review</h3>
+<p>Jede Korrektur wird vor dem Merge philologisch und datentechnisch geprüft:
+1. <strong>Philologische Verifikation:</strong> Stimmt die Korrektur mit der historischen Vorlage und den Pāṇinīya-Regeln überein?
+2. <strong>Kanonische Konsistenz:</strong> Bleiben Wurzel-ID, Gaṇa-Nummerierung und Aupadeśika-Marker intakt?
+3. <strong>Freigabe:</strong> Nach Bestätigung wird der PR gemergt und neue PDF-Releases werden bereitgestellt.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Zurück zum Seitenanfang
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.tabs", "navigation.sections", "navigation.expand", "navigation.top", "search.suggest", "search.highlight", "content.code.copy"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version": "Version ausw\u00e4hlen"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
