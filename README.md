@@ -2,7 +2,8 @@
 
 > **Kanonische Ground-Truth, bilinguale Facing-Page-Alignment-Pipeline und layouttreue Typst-Vektorneuedition für 2.259 Verbalwurzeln auf 410 Buchseiten nach dem Böhtlingk-Standard.**
 > 
-> 🌐 **Dokumentation:** [birchville-org.github.io/dhatupatha](https://birchville-org.github.io/dhatupatha/)  
+> 🌐 **Interactive Edition & Documentation (English):** [https://birchville-org.github.io/dhatupatha/en/](https://birchville-org.github.io/dhatupatha/en/)  
+> 🌐 **Interaktives Lexikon & Dokumentation (Deutsch):** [https://birchville-org.github.io/dhatupatha/](https://birchville-org.github.io/dhatupatha/)  
 > 🏛️ **Upstream-Pipeline:** [birchville-org/AlexandriaSandwich](https://github.com/birchville-org/AlexandriaSandwich)
 
 ---
@@ -61,15 +62,19 @@ Kein starres globales Spaltenmodell, sondern dynamische Anpassung an die Werkstr
 
 ---
 
-## 3. Interaktiver QA-Viewer (`viewer.html`)
+## 3. Interaktives Lexikon & Dokumentation (VitePress)
 
-Für die philologische Prüfung und dauerhafte Nutzung steht ein autarker Web-Editor nach dem **Payer Global Web Editor Standard** und dem **Birchville Scholarly Synthesis Corporate Design** bereit:
+Die vollständige Neuedition aller 2.259 Sanskrit-Verbalwurzeln ist als interaktive digitale Forschungsplattform auf GitHub Pages publiziert:
 
-* **Split-Pane:** Links Kontext und philologische Parameter (mit Scan-Seitenzahl `[S. XX]`), rechts der strukturierte Wurzel-Editor.
-* **Snippet-Toolbar:** Direkte Einfügemöglichkeit für Dandas (`॥`, `।`, `ऽ`, `°`), Akzentzeichen (`॑`, `॒`) und alle IAST-Diakritika (`ā`, `ī`, `ū`, `ṛ`, `ñ`, `ṭ`, `ḍ`, `ṇ`, `ś`, `ṣ`, etc.).
-* **Silent Auto-Repair on Save (`⌘S` / `Ctrl+S`):** Konvertiert Pipes (`||`) lautlos zu Dandas (`॥`), normalisiert Leerzeichen und bereinigt Tippfehler. Visuelles Feedback über sanftes Gelb-Blinken der Speichern-Schaltfläche (keine störenden Modalfenster).
-* **Local Storage First & File System Access API:** Speichert Revisionen unmittelbar lokal im Browser und erlaubt das direkte Zurückschreiben via `showSaveFilePicker`.
-* **Sofort-Filter:** Filterung über alle 10 Gaṇas und Volltextsuche über Devanāgarī, IAST, Artha und Wurzel-ID.
+* 🇬🇧 **Englische Ausgabe (English Edition):** [https://birchville-org.github.io/dhatupatha/en/](https://birchville-org.github.io/dhatupatha/en/)
+* 🇩🇪 **Deutsche Ausgabe:** [https://birchville-org.github.io/dhatupatha/](https://birchville-org.github.io/dhatupatha/)
+
+### Features der Online-Ausgabe:
+* **Bilingualität (i18n):** Umschaltbare Menüführung, Navigation und wissenschaftliche Dokumentation zwischen Englisch und Deutsch.
+* **10 Gaṇas (2.259 Wurzeln):** Vollständige Erfassung aller Wurzelklassen (Bhvādi bis Curādi) mit Devanāgarī, wissenschaftlicher IAST-Transliteration, Bedeutungen (*arthas*), Aupadeśika-It-Markern und grammatischen Badges (Pada, Settva, Karma).
+* **Sofortsuche (`⌘K` / `Ctrl+K`):** Lokale, blitzschnelle Client-Side-Volltextsuche in Devanāgarī (z. B. `भू`), IAST (`bhū`), Sanskrit-Bedeutungen (`सत्तायाम्`), englischen Glossen und nach Wurzel-IDs.
+* **Corporate Design:** Gestaltet nach dem Birchville „Scholarly Synthesis“ Standard (Warm Ivory & Deep Midnight Navy / Dark Mode).
+* **Typst-Buchausgabe:** Direkter Download der 229-seitigen Vektor-PDF-Druckausgabe mit zweispaltigem Wörterbuchgitter und Marginal-Konkordanz.
 
 ---
 
@@ -130,9 +135,13 @@ dhatupatha/
 │       └── Dhatu-patha.typeset.typ         # Typst Quellcode der Neuedition (1,8 MB)
 ├── docs/                             # Interaktive VitePress-Plattform
 │   ├── .vitepress/                   # VitePress Konfiguration & Theme
-│   │   ├── config.mjs                # Navigation, Suche & Metadaten
+│   │   ├── config.mjs                # Bilingual i18n, Navigation, Suche & Metadaten
 │   │   └── theme/                    # Scholarly Synthesis CSS & Komponenten
-│   ├── gana/                         # 10 Gaṇa-Lexikonseiten (2.259 Wurzeln)
+│   ├── en/                           # Englische Ausgabe (English Edition)
+│   │   ├── gana/                     # 10 Gaṇa root class pages (2,259 roots)
+│   │   ├── guide/                    # Scholarly documentation in English
+│   │   └── index.md                  # English home page
+│   ├── gana/                         # Deutsche Gaṇa-Lexikonseiten (2.259 Wurzeln)
 │   ├── guide/                        # Wissenschaftliche Begleitdokumentation
 │   ├── public/                       # Statische Assets & PDF-Download
 │   └── index.md                      # Interaktive Startseite & Gaṇa-Grid
@@ -140,8 +149,8 @@ dhatupatha/
 │   ├── build_dhatupatha_groundtruth.py # Generiert kanonische Ground-Truth
 │   ├── align_dhatupatha.py             # Bilinguale Facing-Page-Alignment-Engine
 │   ├── build_typeset_edition.py        # Typst-Vektorsatz-Compiler
-│   └── generate_vitepress_dict.py      # VitePress Lexikon-Generator
-├── viewer.html                       # Autarker QA-Viewer (Payer-Standard)
+│   └── generate_vitepress_dict.py      # Bilingualer VitePress Lexikon-Generator
+├── viewer.html                       # Autarker lokaler QA-Viewer (Payer-Standard)
 ├── package.json                      # Node.js & VitePress Konfiguration
 ├── pyproject.toml                    # Python Projektkonfiguration
 ├── requirements.txt                  # Python Abhängigkeiten
