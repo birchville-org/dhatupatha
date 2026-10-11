@@ -7,7 +7,7 @@ outline: [2, 3]
 # <span class="deva-large">अदादिगणः</span> <span class="iast-large">Adādigaṇaḥ</span>
 
 <div class="dict-page-header">
-  <span class="badge-count">77 Wurzeln (adadi)</span>
+  <span class="badge-count">77 Wurzeln</span>
   <div class="header-nav-links">
     <a href="./01-bhvadi" class="nav-prev">← Vorheriger Gaṇa</a>
     <a href="./03-juhotyadi" class="nav-next">Nächster Gaṇa →</a>

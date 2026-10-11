@@ -7,7 +7,7 @@ outline: [2, 3]
 # <span class="deva-large">तनादिगणः</span> <span class="iast-large">Tanādigaṇaḥ</span>
 
 <div class="dict-page-header">
-  <span class="badge-count">10 Wurzeln (tanadi)</span>
+  <span class="badge-count">10 Wurzeln</span>
   <div class="header-nav-links">
     <a href="./07-rudhadi" class="nav-prev">← Vorheriger Gaṇa</a>
     <a href="./09-kryadi" class="nav-next">Nächster Gaṇa →</a>

@@ -7,7 +7,7 @@ outline: [2, 3]
 # <span class="deva-large">चुरादिगणः</span> <span class="iast-large">Curādigaṇaḥ</span>
 
 <div class="dict-page-header">
-  <span class="badge-count">509 Wurzeln (curadi)</span>
+  <span class="badge-count">509 Wurzeln</span>
   <div class="header-nav-links">
     <a href="./09-kryadi" class="nav-prev">← Vorheriger Gaṇa</a>
   </div>
