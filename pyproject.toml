@@ -1,0 +1,22 @@
+[project]
+name = "dhatupatha"
+version = "1.0.0"
+description = "Canonical ground-truth, bilingual facing-page alignment pipeline and Typst vector edition of the Paniniya Dhatupatha"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "tqdm>=4.66.0",
+    "urllib3>=2.0.0",
+]
+
+[project.optional-dependencies]
+docs = [
+    "mkdocs>=1.6.0",
+    "mkdocs-material>=9.5.0",
+    "mkdocs-static-i18n>=1.2.0",
+    "pymdown-extensions>=10.7.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

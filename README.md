@@ -2,7 +2,7 @@
 
 > **Kanonische Ground-Truth, bilinguale Facing-Page-Alignment-Pipeline und layouttreue Typst-Vektorneuedition für 2.259 Verbalwurzeln auf 410 Buchseiten nach dem Böhtlingk-Standard.**
 > 
-> 🌐 **Live QA-Viewer:** [birchville-org.github.io/dhatupatha](https://birchville-org.github.io/dhatupatha/)  
+> 🌐 **Dokumentation:** [birchville-org.github.io/dhatupatha](https://birchville-org.github.io/dhatupatha/)  
 > 🏛️ **Upstream-Pipeline:** [birchville-org/AlexandriaSandwich](https://github.com/birchville-org/AlexandriaSandwich)
 
 ---
@@ -113,12 +113,19 @@ dhatupatha/
 │   └── pdf/
 │       ├── Dhatu-patha.typeset_edition.pdf # Typografische Vektor-Neuedition (3,0 MB)
 │       └── Dhatu-patha.typeset.typ         # Typst Quellcode der Neuedition (1,8 MB)
+├── docs/                             # Zweisprachige MkDocs-Dokumentation
+│   ├── de/                           # Deutsche Dokumentation (Default)
+│   ├── en/                           # Englische Dokumentation
+│   ├── assets/                       # Wappen und Bildressourcen
+│   └── stylesheets/                  # Birchville Scholarly Synthesis Theme
 ├── scripts/
 │   ├── build_dhatupatha_groundtruth.py # Generiert kanonische Ground-Truth
 │   ├── align_dhatupatha.py             # Bilinguale Facing-Page-Alignment-Engine
 │   └── build_typeset_edition.py        # Typst-Vektorsatz-Compiler
 ├── viewer.html                       # Autarker QA-Viewer (Payer-Standard)
-├── index.html                        # GitHub Pages Einstiegspunkt
+├── mkdocs.yml                        # Konfiguration der Dokumentation
+├── pyproject.toml                    # Python Projektkonfiguration
+├── requirements.txt                  # Python Abhängigkeiten
 ├── LICENSE                           # MIT Lizenz
 └── README.md                         # Diese Dokumentation
 ```
