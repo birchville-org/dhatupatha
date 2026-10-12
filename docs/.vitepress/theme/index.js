@@ -1,11 +1,17 @@
+import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import GanaIndex from './components/GanaIndex.vue'
+import BirchvilleNavDrawer from './components/BirchvilleNavDrawer.vue'
 import './custom.css'
 
 export default {
   extends: DefaultTheme,
+  Layout: () => h(DefaultTheme.Layout, null, {
+    'nav-bar-content-after': () => h(BirchvilleNavDrawer)
+  }),
   enhanceApp({ app }) {
     app.component('GanaIndex', GanaIndex)
+    app.component('BirchvilleNavDrawer', BirchvilleNavDrawer)
     if (typeof window !== 'undefined') {
       localStorage.setItem('vitepress:local-search-detailed-list', 'true')
       document.documentElement.setAttribute('translate', 'no')

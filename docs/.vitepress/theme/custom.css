@@ -57,6 +57,37 @@
   filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.18));
 }
 
+/* ==========================================================================
+   Birchville Scholarly Synthesis: Universal Hamburger Drawer on all screens
+   ========================================================================== */
+
+/* 1. Hide the horizontal top navbar menu and default hamburger */
+.VPNavBarMenu {
+  display: none !important;
+}
+
+.VPNavBarHamburger {
+  display: none !important;
+}
+
+.VPNavScreen {
+  display: none !important;
+}
+
+/* 2. Navbar title and layout refinement */
+.VPNavBarTitle .title {
+  font-size: 0.92rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.015em;
+  color: var(--vp-c-text-1) !important;
+}
+
+.VPNavBar .content-body {
+  display: flex !important;
+  align-items: center !important;
+  gap: 4px !important;
+}
+
 /* Typography */
 .deva, .skt-deva, .deva-large, .deva-artha {
   font-family: var(--skt-deva-font);
