@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/job.config.schema.json",
+  "title": "Dhātu-Pāṭha: The Roots of Language",
+  "author": "Pāṇini; Stephen R. Hill & Peter G. Harrison [Ed.]",
+  "editor": "Stephen R. Hill & Peter G. Harrison",
+  "year": 1991,
+  "publisher": "Gerald Duckworth & Co. Ltd / Munshiram Manoharlal Publishers",
+  "lang": "san+eng+deu",
+  "threshold": 60.0,
+  "use_mistral": true,
+  "use_unpaper": true,
+  "skip_preprocess": false,
+  "limit": 0,
+  "canonical_reference": "data/dhatupatha_canonical.json",
+  "iiif_template": "viewer.html?page={page}",
+  "heuristics": {
+    "script": "Mixed",
+    "two_column": true,
+    "has_transliteration": true,
+    "strip_running_headers": true,
+    "strip_page_numbers": true,
+    "strip_library_boilerplates": true,
+    "strip_rogue_scripts": true,
+    "typeset_mode": "dictionary_grid"
+  }
+}

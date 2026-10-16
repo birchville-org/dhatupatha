@@ -1,6 +1,6 @@
 {
   "name": "dhatupatha",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Pāṇinīya-Dhātupāṭha — Kanonische Neuedition (2.259 Sanskrit-Verbalwurzeln) mit VitePress & Typst-Vektorsatz",
   "scripts": {
     "docs:dev": "vitepress dev docs",

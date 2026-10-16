@@ -55,6 +55,11 @@ def generate_full_typst_document(
 
     # 1. Base Setup
     base_setup = f"""// AlexandriaSandwich — Publication-Grade Typeset Edition (Böhtlingk Architecture)
+#set document(
+  title: "{escape_typst(title)} — Kritische Neuausgabe",
+  author: "Pāṇini; Stephen R. Hill & Peter G. Harrison",
+  keywords: ("Sanskrit", "Dhātupāṭha", "Pāṇini", "Verbal Roots", "Grammar")
+)
 #set page(
   paper: "{paper}",
   margin: (top: 2.2cm, bottom: 2.2cm, inside: 2.4cm, outside: 2.0cm),
@@ -131,6 +136,8 @@ def generate_full_typst_document(
 
     # 2. Front Matter: Preface & Introduction (Pages 1 to 25) -> Single-Column Prose
     front_matter_text = []
+    seen_preface = False
+    seen_intro = False
     for p in range(1, 26):
         txt = pdf_text_by_page.get(p, "").strip()
         if not txt or len(txt) < 40:
@@ -139,10 +146,14 @@ def generate_full_typst_document(
         lines = txt.splitlines()
         first_line = lines[0].strip()
         if "PREFACE" in first_line.upper():
-            front_matter_text.append(f"\n#heading(level: 1)[Preface]\n#v(0.5em)\n")
+            if not seen_preface:
+                front_matter_text.append(f"\n#heading(level: 1)[Preface]\n#v(0.5em)\n")
+                seen_preface = True
             body_lines = lines[1:]
         elif "INTRODUCTION" in first_line.upper():
-            front_matter_text.append(f"\n#pagebreak(weak: true)\n#heading(level: 1)[Introduction]\n#v(0.5em)\n")
+            if not seen_intro:
+                front_matter_text.append(f"\n#pagebreak(weak: true)\n#heading(level: 1)[Introduction]\n#v(0.5em)\n")
+                seen_intro = True
             body_lines = lines[1:]
         else:
             body_lines = lines
