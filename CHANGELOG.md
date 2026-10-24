@@ -7,6 +7,22 @@ und dieses Projekt folgt [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 
 ---
 
+## [1.2.0] - 2026-10-24
+
+### Hinzugefügt
+- **AlexandriaSandwich v1.7.0 Pipeline-Integration**:
+  - **Content-Aware Margin Masking**: Bereinigung aller 410 Faksimile-Seiten von Buchfalzen, Bundstegschatten und Scannerrändern außerhalb des Satzspiegels (`Dhatu-patha.perfect_sandwich.pdf`).
+  - **Layout-Profilierung (`data/layout.profile.json`)**: Präzise 2D-Vermessung von Satzspiegel, Randproportionen und asymmetrischem Bundsteg (`inside: 60.1pt, outside: 53.2pt`).
+- **Typografisch veredelter Neusatz (`Dhatu-patha.typeset_edition.pdf`)**:
+  - Zentrierte Haupttitel und strukturierter Erstzeileneinzug (`1.5em`).
+  - Symmetrische Dreispaltengitter mit nativer Ziffern-Parität.
+  - Kompilierung von 29.972 Zeilen Typst-Code ohne Schriftsatz-Warnungen.
+
+### Geändert
+- **Publikations-Artefakte**:
+  - Aktualisiertes Vektordokument in `docs/public/Dhatu-patha.typeset_edition.pdf` (2.96 MB).
+  - Bereinigtes Faksimile auf 94.02 MB optimiert (zlib FlateDecode, 28% Größenreduktion gegenüber Vorversion).
+
 ## [1.1.0] - 2026-10-16
 
 ### Hinzugefügt
